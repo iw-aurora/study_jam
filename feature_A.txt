@@ -1,1 +1,2 @@
-This is feature A.
+This is a new commit on branch A.
+Testing GitHub Pull Request commits.
